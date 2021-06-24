@@ -1,3 +1,4 @@
+[hw_1_Daloglu_Cem.pdf](https://github.com/cemdaloglu/comparison-between-Singular-Value-Decomposition-SVD-and-Non-negative-Matrix-Factorization-NMF-/files/6707870/hw_1_Daloglu_Cem.pdf)
 # comparison-between-Singular-Value-Decomposition-SVD-and-Non-negative-Matrix-Factorization-NMF-
 The purpose of this assignment is to compare matrix factorization techniques through a facial recognition study.
 For this purpose, the CBCL database, originally used in [3]. Note that
